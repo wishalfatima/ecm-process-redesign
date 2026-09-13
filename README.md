@@ -44,7 +44,7 @@ The resulting process map confirms the bottleneck identified conceptually: the t
 
 ## To-Be Process
 
-![To-Be Process Diagram](diagrams/ecm-to-be-process.png)
+![To-Be Process Diagram](diagrams/to_be_ecm.png)
 
 ### Redesign Rationale
 
