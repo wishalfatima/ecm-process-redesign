@@ -14,7 +14,7 @@ A distributed engineering organization (~700 engineers across product lines and 
 
 ## As-Is Process
 
-![As-Is Process Diagram](diagrams/ecm-as-is-process.png)
+![As-Is Process Diagram](diagrams/as-is-ecm.png)
 
 The current process routes every change request through the same sequential chain: submission → Team Lead review → Change Control Board (CCB) review → Quality sign-off → PLM documentation update → confirmation to the requesting engineer.
 
