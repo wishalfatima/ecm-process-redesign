@@ -14,7 +14,7 @@ A distributed engineering organization (~700 engineers across product lines and 
 
 ## As-Is Process
 
-![As-Is Process Diagram](diagrams/as_is_ecm.png)
+![As-Is Process Diagram](as_is_ecm.png)
 
 The current process routes every change request through the same sequential chain: submission → Team Lead review → Change Control Board (CCB) review → Quality sign-off → PLM documentation update → confirmation to the requesting engineer.
 
@@ -44,7 +44,7 @@ The resulting process map confirms the bottleneck identified conceptually: the t
 
 ## To-Be Process
 
-![To-Be Process Diagram](diagrams/to_be_ecm.png)
+![To-Be Process Diagram](to_be_ecm.png)
 
 ### Redesign Rationale
 
