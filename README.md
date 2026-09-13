@@ -38,7 +38,7 @@ The process handles each change request in isolation, with no shared view across
 
 To empirically test the pain-point analysis rather than rely on it purely as a conceptual argument, a synthetic event log of 150 change requests moving through the as-is process was generated and analyzed using **Disco** (Fluxicon).
 
-![Disco Performance Analysis](diagrams/disco-performance-analysis.png)
+![Disco Performance Analysis](disco_performance_analysis.png)
 
 The resulting process map confirms the bottleneck identified conceptually: the transition into **CCB Impact Review averages 4 days**, compared to well under 2 days combined for every other step in the process — submission to review (12.9 hrs), CCB to Quality (41.3 hrs), Quality to PLM update (6.3 hrs), and PLM update to confirmation (2.2 hrs). CCB Impact Review alone accounts for more cycle time than every other step in the process combined, confirming it as the single largest contributor to overall approval delay and directly supporting the case for the redesign below.
 
