@@ -80,4 +80,4 @@ Combined, these two changes could realistically reduce average approval cycle ti
 
 ## Author
 
-Wishal Fatima — [LinkedIn](https://www.linkedin.com/in/wishal-fatima-310160200/) | [GitHub](https://github.com/wishalfatima)
+Wishal Fatima — [LinkedIn](https://www.linkedin.com/in/wishal-fatima-310160200/) | [GitHub](https://github.com/wishalfatima) 
